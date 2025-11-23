@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+<action>
+	<icon>utilities-terminal</icon>
+	<name>Terminal hier öffnen</name>
+	<submenu></submenu>
+	<unique-id>1710172008890513-1</unique-id>
+	<command>/usr/sbin/kitty %f</command>
+	<description>Beispiel für eine eigene Aktion</description>
+	<range></range>
+	<patterns>*</patterns>
+	<startup-notify/>
+	<directories/>
+</action>
+</actions>
